@@ -1,0 +1,51 @@
+name,rotation_period,orbital_period,diameter,climate,gravity,terrain,surface_water,population,residents_count,films_count
+Tatooine,23,304,10465,arid,1 standard,desert,1,200000,10,5
+Alderaan,24,364,12500,temperate,1 standard,"grasslands, mountains",40,2000000000,3,2
+Yavin IV,24,4818,10200,"temperate, tropical",1 standard,"jungle, rainforests",8,1000,0,1
+Hoth,23,549,7200,frozen,1.1 standard,"tundra, ice caves, mountain ranges",100,unknown,0,1
+Dagobah,23,341,8900,murky,N/A,"swamp, jungles",8,unknown,0,3
+Bespin,12,5110,118000,temperate,"1.5 (surface), 1 standard (Cloud City)",gas giant,0,6000000,1,1
+Endor,18,402,4900,temperate,0.85 standard,"forests, mountains, lakes",8,30000000,1,1
+Naboo,26,312,12120,temperate,1 standard,"grassy hills, swamps, forests, mountains",12,4500000000,11,4
+Coruscant,24,368,12240,temperate,1 standard,"cityscape, mountains",unknown,1000000000000,3,4
+Kamino,27,463,19720,temperate,1 standard,ocean,100,1000000000,3,1
+Geonosis,30,256,11370,"temperate, arid",0.9 standard,"rock, desert, mountain, barren",5,100000000000,1,1
+Utapau,27,351,12900,"temperate, arid, windy",1 standard,"scrublands, savanna, canyons, sinkholes",0.9,95000000,1,1
+Mustafar,36,412,4200,hot,1 standard,"volcanoes, lava rivers, mountains, caves",0,20000,0,1
+Kashyyyk,26,381,12765,tropical,1 standard,"jungle, forests, lakes, rivers",60,45000000,2,1
+Polis Massa,24,590,0,artificial temperate ,0.56 standard,airless asteroid,0,1000000,0,1
+Mygeeto,12,167,10088,frigid,1 standard,"glaciers, mountains, ice canyons",unknown,19000000,0,1
+Felucia,34,231,9100,"hot, humid",0.75 standard,fungus forests,unknown,8500000,0,1
+Cato Neimoidia,25,278,0,"temperate, moist",1 standard,"mountains, fields, forests, rock arches",unknown,10000000,1,1
+Saleucami,26,392,14920,hot,unknown,"caves, desert, mountains, volcanoes",unknown,1400000000,0,1
+Stewjon,unknown,unknown,0,temperate,1 standard,grass,unknown,unknown,1,0
+Eriadu,24,360,13490,polluted,1 standard,cityscape,unknown,22000000000,1,0
+Corellia,25,329,11000,temperate,1 standard,"plains, urban, hills, forests",70,3000000000,2,0
+Rodia,29,305,7549,hot,1 standard,"jungles, oceans, urban, swamps",60,1300000000,1,0
+Nal Hutta,87,413,12150,temperate,1 standard,"urban, oceans, swamps, bogs",unknown,7000000000,1,0
+Dantooine,25,378,9830,temperate,1 standard,"oceans, savannas, mountains, grasslands",unknown,1000,0,0
+Bestine IV,26,680,6400,temperate,unknown,"rocky islands, oceans",98,62000000,1,0
+Ord Mantell,26,334,14050,temperate,1 standard,"plains, seas, mesas",10,4000000000,0,1
+unknown,0,0,0,unknown,unknown,unknown,unknown,unknown,5,0
+Trandosha,25,371,0,arid,0.62 standard,"mountains, seas, grasslands, deserts",unknown,42000000,1,0
+Socorro,20,326,0,arid,1 standard,"deserts, mountains",unknown,300000000,1,0
+Mon Cala,21,398,11030,temperate,1,"oceans, reefs, islands",100,27000000000,1,0
+Chandrila,20,368,13500,temperate,1,"plains, forests",40,1200000000,1,0
+Sullust,20,263,12780,superheated,1,"mountains, volcanoes, rocky deserts",5,18500000000,1,0
+Toydaria,21,184,7900,temperate,1,"swamps, lakes",unknown,11000000,1,0
+Malastare,26,201,18880,"arid, temperate, tropical",1.56,"swamps, deserts, jungles, mountains",unknown,2000000000,1,0
+Dathomir,24,491,10480,temperate,0.9,"forests, deserts, savannas",unknown,5200,1,0
+Ryloth,30,305,10600,"temperate, arid, subartic",1,"mountains, valleys, deserts, tundra",5,1500000000,2,0
+Aleen Minor,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,1,0
+Vulpter,22,391,14900,"temperate, artic",1,"urban, barren",unknown,421000000,1,0
+Troiken,unknown,unknown,unknown,unknown,unknown,"desert, tundra, rainforests, mountains",unknown,unknown,1,0
+Tund,48,1770,12190,unknown,unknown,"barren, ash",unknown,0,1,0
+Haruun Kal,25,383,10120,temperate,0.98,"toxic cloudsea, plateaus, volcanoes",unknown,705300,1,0
+Cerea,27,386,unknown,temperate,1,verdant,20,450000000,1,0
+Glee Anselm,33,206,15600,"tropical, temperate",1,"lakes, islands, swamps, seas",80,500000000,1,0
+Iridonia,29,413,unknown,unknown,unknown,"rocky canyons, acid pools",unknown,unknown,1,0
+Tholoth,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0,0
+Iktotch,22,481,unknown,"arid, rocky, windy",1,rocky,unknown,unknown,1,0
+Quermia,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,1,0
+Dorin,22,409,13400,temperate,1,unknown,unknown,unknown,1,0
+Champala,27,318,unknown,temperate,1,"oceans, rainforests, plateaus",unknown,3500000000,1,0

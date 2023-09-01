@@ -1,0 +1,83 @@
+name,height,mass,gender,hair_color,skin_color,homeworld,films,starships
+Luke Skywalker,172,77,male,blond,fair,Tatooine,['A New Hope'],"['X-wing', 'Imperial shuttle']"
+C-3PO,167,75,n/a,n/a,gold,Tatooine,['A New Hope'],"['X-wing', 'Imperial shuttle']"
+R2-D2,96,32,n/a,n/a,"white, blue",Naboo,['A New Hope'],"['X-wing', 'Imperial shuttle']"
+Darth Vader,202,136,male,None,white,Tatooine,['A New Hope'],['TIE Advanced x1']
+Leia Organa,150,49,female,brown,light,Alderaan,['A New Hope'],['TIE Advanced x1']
+Owen Lars,178,120,male,"brown, grey",light,Tatooine,['A New Hope'],['TIE Advanced x1']
+Beru Whitesun lars,165,75,female,brown,light,Tatooine,['A New Hope'],['TIE Advanced x1']
+R5-D4,97,32,n/a,n/a,"white, red",Tatooine,['A New Hope'],['TIE Advanced x1']
+Biggs Darklighter,183,84,male,black,light,Tatooine,['A New Hope'],['X-wing']
+Obi-Wan Kenobi,182,77,male,"auburn, white",fair,Stewjon,['A New Hope'],"['Jedi starfighter', 'Trade Federation cruiser', 'Naboo star skiff', 'Jedi Interceptor', 'Belbullab-22 starfighter']"
+Anakin Skywalker,188,84,male,blond,fair,Tatooine,['The Phantom Menace'],"['Naboo fighter', 'Trade Federation cruiser', 'Jedi Interceptor']"
+Wilhuff Tarkin,180,unknown,male,"auburn, grey",fair,Eriadu,['A New Hope'],"['Naboo fighter', 'Trade Federation cruiser', 'Jedi Interceptor']"
+Chewbacca,228,112,male,brown,unknown,Kashyyyk,['A New Hope'],"['Millennium Falcon', 'Imperial shuttle']"
+Han Solo,180,80,male,brown,fair,Corellia,['A New Hope'],"['Millennium Falcon', 'Imperial shuttle']"
+Greedo,173,74,male,n/a,green,Rodia,['A New Hope'],"['Millennium Falcon', 'Imperial shuttle']"
+Jabba Desilijic Tiure,175,"1,358",hermaphrodite,n/a,"green-tan, brown",Nal Hutta,['A New Hope'],"['Millennium Falcon', 'Imperial shuttle']"
+Wedge Antilles,170,77,male,brown,fair,Corellia,['A New Hope'],['X-wing']
+Jek Tono Porkins,180,110,male,brown,fair,Bestine IV,['A New Hope'],['X-wing']
+Yoda,66,17,male,white,green,unknown,['The Empire Strikes Back'],['X-wing']
+Palpatine,170,75,male,grey,pale,Naboo,['The Empire Strikes Back'],['X-wing']
+Boba Fett,183,78.2,male,black,fair,Kamino,['The Empire Strikes Back'],['Slave 1']
+IG-88,200,140,None,None,metal,unknown,['The Empire Strikes Back'],['Slave 1']
+Bossk,190,113,male,None,green,Trandosha,['The Empire Strikes Back'],['Slave 1']
+Lando Calrissian,177,79,male,black,dark,Socorro,['The Empire Strikes Back'],['Millennium Falcon']
+Lobot,175,79,male,None,light,Bespin,['The Empire Strikes Back'],['Millennium Falcon']
+Ackbar,180,83,male,None,brown mottle,Mon Cala,['Return of the Jedi'],['Millennium Falcon']
+Mon Mothma,150,unknown,female,auburn,fair,Chandrila,['Return of the Jedi'],['Millennium Falcon']
+Arvel Crynyd,unknown,unknown,male,brown,fair,unknown,['Return of the Jedi'],['A-wing']
+Wicket Systri Warrick,88,20,male,brown,brown,Endor,['Return of the Jedi'],['A-wing']
+Nien Nunb,160,68,male,None,grey,Sullust,['Return of the Jedi'],['Millennium Falcon']
+Qui-Gon Jinn,193,89,male,brown,fair,unknown,['The Phantom Menace'],['Millennium Falcon']
+Nute Gunray,191,90,male,None,mottled green,Cato Neimoidia,['The Phantom Menace'],['Millennium Falcon']
+Finis Valorum,170,unknown,male,blond,fair,Coruscant,['The Phantom Menace'],['Millennium Falcon']
+Padmé Amidala,185,45,female,brown,light,Naboo,['The Phantom Menace'],"['Naboo fighter', 'H-type Nubian yacht', 'Naboo star skiff']"
+Jar Jar Binks,196,66,male,None,orange,Naboo,['The Phantom Menace'],"['Naboo fighter', 'H-type Nubian yacht', 'Naboo star skiff']"
+Roos Tarpals,224,82,male,None,grey,Naboo,['The Phantom Menace'],"['Naboo fighter', 'H-type Nubian yacht', 'Naboo star skiff']"
+Rugor Nass,206,unknown,male,None,green,Naboo,['The Phantom Menace'],"['Naboo fighter', 'H-type Nubian yacht', 'Naboo star skiff']"
+Ric Olié,183,unknown,male,brown,fair,Naboo,['The Phantom Menace'],['Naboo Royal Starship']
+Watto,137,unknown,male,black,"blue, grey",Toydaria,['The Phantom Menace'],['Naboo Royal Starship']
+Sebulba,112,40,male,None,"grey, red",Malastare,['The Phantom Menace'],['Naboo Royal Starship']
+Quarsh Panaka,183,unknown,male,black,dark,Naboo,['The Phantom Menace'],['Naboo Royal Starship']
+Shmi Skywalker,163,unknown,female,black,fair,Tatooine,['The Phantom Menace'],['Naboo Royal Starship']
+Darth Maul,175,80,male,None,red,Dathomir,['The Phantom Menace'],['Scimitar']
+Bib Fortuna,180,unknown,male,None,pale,Ryloth,['Return of the Jedi'],['Scimitar']
+Ayla Secura,178,55,female,None,blue,Ryloth,['The Phantom Menace'],['Scimitar']
+Ratts Tyerel,79,15,male,None,"grey, blue",Aleen Minor,['The Phantom Menace'],['Scimitar']
+Dud Bolt,94,45,male,None,"blue, grey",Vulpter,['The Phantom Menace'],['Scimitar']
+Gasgano,122,unknown,male,None,"white, blue",Troiken,['The Phantom Menace'],['Scimitar']
+Ben Quadinaros,163,65,male,None,"grey, green, yellow",Tund,['The Phantom Menace'],['Scimitar']
+Mace Windu,188,84,male,None,dark,Haruun Kal,['The Phantom Menace'],['Scimitar']
+Ki-Adi-Mundi,198,82,male,white,pale,Cerea,['The Phantom Menace'],['Scimitar']
+Kit Fisto,196,87,male,None,green,Glee Anselm,['The Phantom Menace'],['Scimitar']
+Eeth Koth,171,unknown,male,black,brown,Iridonia,['The Phantom Menace'],['Scimitar']
+Adi Gallia,184,50,female,None,dark,Coruscant,['The Phantom Menace'],['Scimitar']
+Saesee Tiin,188,unknown,male,None,pale,Iktotch,['The Phantom Menace'],['Scimitar']
+Yarael Poof,264,unknown,male,None,white,Quermia,['The Phantom Menace'],['Scimitar']
+Plo Koon,188,80,male,None,orange,Dorin,['The Phantom Menace'],['Jedi starfighter']
+Mas Amedda,196,unknown,male,None,blue,Champala,['The Phantom Menace'],['Jedi starfighter']
+Gregar Typho,185,85,male,black,dark,Naboo,['Attack of the Clones'],['Naboo fighter']
+Cordé,157,unknown,female,brown,light,Naboo,['Attack of the Clones'],['Naboo fighter']
+Cliegg Lars,183,unknown,male,brown,fair,Tatooine,['Attack of the Clones'],['Naboo fighter']
+Poggle the Lesser,183,80,male,None,green,Geonosis,['Attack of the Clones'],['Naboo fighter']
+Luminara Unduli,170,56.2,female,black,yellow,Mirial,['Attack of the Clones'],['Naboo fighter']
+Barriss Offee,166,50,female,black,yellow,Mirial,['Attack of the Clones'],['Naboo fighter']
+Dormé,165,unknown,female,brown,light,Naboo,['Attack of the Clones'],['Naboo fighter']
+Dooku,193,80,male,white,fair,Serenno,['Attack of the Clones'],['Naboo fighter']
+Bail Prestor Organa,191,unknown,male,black,tan,Alderaan,['Attack of the Clones'],['Naboo fighter']
+Jango Fett,183,79,male,black,tan,Concord Dawn,['Attack of the Clones'],['Naboo fighter']
+Zam Wesell,168,55,female,blonde,"fair, green, yellow",Zolan,['Attack of the Clones'],['Naboo fighter']
+Dexter Jettster,198,102,male,None,brown,Ojom,['Attack of the Clones'],['Naboo fighter']
+Lama Su,229,88,male,None,grey,Kamino,['Attack of the Clones'],['Naboo fighter']
+Taun We,213,unknown,female,None,grey,Kamino,['Attack of the Clones'],['Naboo fighter']
+Jocasta Nu,167,unknown,female,white,fair,Coruscant,['Attack of the Clones'],['Naboo fighter']
+R4-P17,96,unknown,female,None,"silver, red",unknown,['Attack of the Clones'],['Naboo fighter']
+Wat Tambor,193,48,male,None,"green, grey",Skako,['Attack of the Clones'],['Naboo fighter']
+San Hill,191,unknown,male,None,grey,Muunilinst,['Attack of the Clones'],['Naboo fighter']
+Shaak Ti,178,57,female,None,"red, blue, white",Shili,['Attack of the Clones'],['Naboo fighter']
+Grievous,216,159,male,None,"brown, white",Kalee,['Revenge of the Sith'],['Belbullab-22 starfighter']
+Tarfful,234,136,male,brown,brown,Kashyyyk,['Revenge of the Sith'],['Belbullab-22 starfighter']
+Raymus Antilles,188,79,male,brown,light,Alderaan,['A New Hope'],['Belbullab-22 starfighter']
+Sly Moore,178,48,female,None,pale,Umbara,['Attack of the Clones'],['Belbullab-22 starfighter']
+Tion Medon,206,80,male,None,grey,Utapau,['Revenge of the Sith'],['Belbullab-22 starfighter']
